@@ -10,5 +10,5 @@
 - [Sannsynsmodellar og stokastiske variablar](https://github.com/lektorodd/S1/blob/main/SannsynsmodellarOgStokastiskeVariablar.ipynb)
 
 
-**Veke :**
+**Veke 8:**
 - [Samansette forsøk](https://github.com/lektorodd/S1/blob/main/SamansetteFors%C3%B8k.ipynb)

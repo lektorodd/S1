@@ -12,3 +12,6 @@
 
 **Veke 8:**
 - [Samansette forsøk](https://github.com/lektorodd/S1/blob/main/SamansetteFors%C3%B8k.ipynb)
+
+**Veke 10:**
+- [Kombinatorikk](https://github.com/lektorodd/S1/blob/main/Kombinatorikk.ipynb)
